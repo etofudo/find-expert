@@ -1,0 +1,64 @@
+[30-Aug-2025 16:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[30-Aug-2025 16:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[01-Sep-2025 10:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[01-Sep-2025 10:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:48:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6
+[05-Sep-2025 06:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/web.php on line 5
+[05-Sep-2025 06:52:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/routes/console.php on line 6

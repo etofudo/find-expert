@@ -1,0 +1,22 @@
+Dear Hiring Manager,
+
+APPLICATION FOR {JOB_TITLE} ROLE
+
+I am a New Horizons awards winning seasoned software engineer with over 8 years of experience in developing efficient, highly scalable and secure software with React.js, Node.js, C#/.NET, Angular, MySQL, among other programming languages.
+
+I have developed and maintained the frontend of several applications which have newspaper media mentions.
+
+I have experience working with several software architectures, MVC, microservices, monolithic and many others.
+
+I am a team player and a team leader that have led my team to deliver exceptional results.
+
+I have a First Class Honour's degree in Computer Science and excellence is my mantra.
+
+I will be delighted to be given an opportunity to deliver value and excellent results in your company.
+
+Kind Regards,
+ODUFOTE ISRAEL
+{PHONE}
+{EMAIL}
+{GITHUB}
+{LINKEDIN}

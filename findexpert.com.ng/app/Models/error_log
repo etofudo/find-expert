@@ -1,0 +1,32 @@
+[29-Aug-2025 01:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[01-Sep-2025 11:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10
+[05-Sep-2025 06:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/app/Models/User.php on line 10

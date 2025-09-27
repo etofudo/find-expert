@@ -1,0 +1,32 @@
+[30-Aug-2025 16:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[01-Sep-2025 10:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7
+[05-Sep-2025 06:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/bootstrap/app.php on line 7

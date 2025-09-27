@@ -1,0 +1,28 @@
+[01-Sep-2025 12:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12
+[05-Sep-2025 06:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/factories/UserFactory.php on line 12

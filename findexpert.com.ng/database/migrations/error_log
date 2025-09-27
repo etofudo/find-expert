@@ -1,0 +1,84 @@
+[01-Sep-2025 10:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[01-Sep-2025 10:24:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[01-Sep-2025 10:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:41:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[05-Sep-2025 06:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[05-Sep-2025 06:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[05-Sep-2025 06:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[05-Sep-2025 06:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[05-Sep-2025 06:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[05-Sep-2025 06:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[05-Sep-2025 06:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/barnesbu/public_html/findexpert.com.ng/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
