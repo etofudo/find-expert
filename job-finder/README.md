@@ -59,17 +59,6 @@ celery -A src.core.scheduler beat --loglevel=info
 
 ## Configuration
 
-### Environment Variables
-
-- `CANDIDATE_NAME`: Your full name (Israel Odufote)
-- `CANDIDATE_EMAIL`: Your email address (johnnyodufote@gmail.com)
-- `CANDIDATE_PHONE`: Your phone number
-- `CANDIDATE_GITHUB`: Your GitHub profile URL
-- `CANDIDATE_LINKEDIN`: Your LinkedIn profile URL
-- `MIN_SALARY_NGN`: Minimum salary requirement in NGN (500000)
-- `MIN_SALARY_USD`: Minimum salary requirement in USD (2000)
-- `APPLICATIONS_PER_HOUR`: Maximum applications per hour (10)
-- `OPENAI_API_KEY`: OpenAI API key for AI cover letters
 
 ### Job Sites
 
